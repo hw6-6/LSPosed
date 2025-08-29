@@ -43,6 +43,10 @@ We use our own module repository. We welcome developers to submit modules to our
 
 - [LSPosed Module Repository](https://github.com/Xposed-Modules-Repo)
 
+### Documentation
+
+- [📚 中文文档 (Chinese Documentation)](./docs/README.md) - Comprehensive Chinese documentation for beginners and developers
+
 ## Community Discussion
 
 - Telegram: [@LSPosed](https://t.me/s/LSPosed)
